@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="shawerma">Shawerma</string>
+    <string name="decide_for_me">Decide for me</string>
+</resources>
